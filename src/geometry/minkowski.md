@@ -111,3 +111,4 @@ vector<pt> minkowski(vector<pt> P, vector<pt> Q){
  * [Codeforces 87E Mogohu-Rea Idol](https://codeforces.com/problemset/problem/87/E)
  * [Codeforces 1195F Geometers Anonymous Club](https://codeforces.com/contest/1195/problem/F)
  * [TIMUS 1894 Non-Flying Weather](https://acm.timus.ru/problem.aspx?space=1&num=1894)
+ * [Codeforces 1841F Monocarp and a Strategic Game](https://codeforces.com/contest/1841/problem/F)
